@@ -1,0 +1,2 @@
+# eezycoin
+eezynetwork website 
